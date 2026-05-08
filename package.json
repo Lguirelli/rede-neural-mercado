@@ -1,0 +1,23 @@
+{
+  "name": "neo-quant-glass-dashboard",
+  "version": "1.0.0",
+  "description": "Placeholder dashboard para análise de ações com IA em estilo Neo Quant Glass.",
+  "main": "index.html",
+  "scripts": {
+    "start": "vite --host 0.0.0.0",
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "typescript": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "lucide-react": "latest",
+    "recharts": "latest",
+    "framer-motion": "latest"
+  },
+  "devDependencies": {}
+}
